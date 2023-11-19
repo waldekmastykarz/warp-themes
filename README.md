@@ -1,0 +1,1 @@
+Copy the folder to ~/.warp/themes
